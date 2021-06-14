@@ -1,1 +1,1 @@
-# 1NT18IS116_praveen_B_webTechLab
+# 1NT18IS116_praveen_B_jsLab
